@@ -4,6 +4,7 @@
 The Extension should be used to avoid the existence of hard-coded credentials typically create a significant hole that allows an attacker to bypass the authentication that has been configured by the software administrator. 
 The commitment came from internal customer Italy Auditor. The customer BU is manly team involved to analyze all customer applications to verify the violations about hard-coded credentials. 
 Then the process can be extended to Quality Department also.
+
 IMPORTANT!!! Please keep in mind that this Extension is implemented specifically for this  customer. An implementation in others environments requires customization about languages involved by Extension. 
 The Extension implements customer metrics using CAST Universal Analyzer.
 # 1.2	Version
