@@ -9,7 +9,7 @@ IMPORTANT!!! Please keep in mind that this Extension is implemented specifically
 The Extension implements customer metrics using CAST Universal Analyzer.
 # 1.2	Version
  The table below indicates the current version of the Extension and history of versions.
- 
+
 ![]( https://github.com/CAST-Extend/com.castsoftware.uc.cwe/blob/master/Image1.PNG?raw=true)
 
 # 1.3	Use cases
